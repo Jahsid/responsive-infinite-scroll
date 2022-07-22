@@ -1,0 +1,25 @@
+.Homepage {
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    background: #ebebeb;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-evenly;
+  }
+
+  .logout {
+    display: flex;
+    background-color: coral;
+    cursor: pointer;
+    margin-left: 20px;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
